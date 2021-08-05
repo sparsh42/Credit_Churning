@@ -7,3 +7,5 @@ Using _Ensemble Learning_ approaches, deep analysis of data, including graphs ma
 
 ## SMOTE
 After calculating all the values in this imabalanced data, SMOTE was used to balance data, which improved the accuracy to _98.73%_!
+## Dataset
+Dataset is available at: https://www.kaggle.com/sakshigoyal7/credit-card-customers
